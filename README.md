@@ -1,6 +1,6 @@
 # Hey, I'm Ilham 👋
 
-Fullstack engineer with 8+ years of building products at scale. Currently leading frontend at a healthtech startup. Previously shipped code at Bukalapak (Indonesia's biggest e-commerce) and Late Checkout.
+Fullstack engineer with 10+ years of building products at scale. Currently leading frontend at a healthtech startup. Previously shipped code at Bukalapak (Indonesia's biggest e-commerce) and Late Checkout.
 
 Overthinker who somehow still ships code.
 
