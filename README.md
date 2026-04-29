@@ -1,30 +1,26 @@
-# Hey, I'm Ilham 👋
+# Ilham Farobi
 
-Fullstack engineer with 10+ years of building products at scale. Currently leading frontend at a healthtech startup. Previously shipped code at Bukalapak (Indonesia's biggest e-commerce) and Late Checkout.
+Fullstack engineer in Indonesia. 10+ yr on the web — frontend by trade, fullstack by reach. Currently leading frontend at KangarooHealth, remote.
 
-Overthinker who somehow still ships code.
+## Now
 
-## What I'm up to
-
-- 🏥 Building healthtech dashboards by day
-- 🔧 Grinding on a side project nights & weekends
-- 🎮 Hunting monsters when I should be sleeping
+- Frontend lead at **KangarooHealth** — provider dashboard for remote patient monitoring.
+- Building [**ServerTUI**](https://github.com/ifarobi/servertui) — terminal UI for managing local servers (Docker, Ollama, cron, MCP).
+- Running [**Coloring Cafe**](https://coloring.cafe) on the side — turn any photo into a coloring page.
 
 ## Stack
 
 ```
-Frontend    React · Next.js · TypeScript · Vue
-Backend     Node.js · Express · Go · PHP · Ruby
-Database    PostgreSQL · Prisma · Supabase
-Other       Tailwind · MUI · Storybook · Docker
+Frontend    React · Vue · TypeScript · Next.js
+Backend     Node · Go · Ruby · PHP · Python
+Data        PostgreSQL · Prisma · Supabase · Convex
+Tooling     Tailwind · Storybook · Docker
 ```
 
-## Find me
+## Elsewhere
 
-- 🐦 [@IFarobi](https://x.com/IFarobi) — random thoughts & occasional tech
-- 🌐 [ifarobi.com](https://ifarobi.com)
-- 💼 [LinkedIn](https://linkedin.com/in/ifarobi)
+- [ifarobi.com](https://www.ifarobi.com) — the long version
+- [LinkedIn](https://id.linkedin.com/in/ifarobi)
+- [x.com/ifarobi](https://x.com/ifarobi)
 
----
-
-*"Random thoughts by day, git push by night"*
+— Indonesia · GMT+7
